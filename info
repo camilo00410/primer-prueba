@@ -1,9 +1,8 @@
 api
   crear la base de datos
   .env 
-  php artisan migrate 
-    opcional 
-      php artisan db:seed
+  php artisan migrate --seed
+   
       
   php artisan serve
   

@@ -1,4 +1,5 @@
 api
+  php artisan migrate
   php artisan serve
   
 cliente

@@ -1,5 +1,10 @@
 api
-  php artisan migrate
+  crear la base de datos
+  .env 
+  php artisan migrate 
+    opcional 
+      php artisan db:seed
+      
   php artisan serve
   
 cliente
